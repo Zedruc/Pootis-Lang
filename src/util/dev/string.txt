@@ -1,0 +1,5 @@
+Welcome to PootisScript.
+A language designed to be completely useless
+
+You can either interpret it using "node . -src <Path to your .pootis file>"
+or compile it into a jar file using "node src/util/compile -src <Path to your .pootis file>"
